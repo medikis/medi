@@ -245,30 +245,6 @@ header {
     }
 }
 
-.muirtl-dfh0nt {
-    position: relative;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    min-height: 56px;
-    color: rgb(255, 255, 255);
-    height: 72px;
-    box-sizing: border-box;
-    padding: 8px 20px;
-}
-
-.muirtl-dfh0nt {
-    position: relative;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    min-height: 56px;
-    color: rgb(255, 255, 255);
-    height: 72px;
-    box-sizing: border-box;
-    padding: 8px 20px;
-}
-
 .muirtl-4fzkye {
     display: inline-flex;
     -webkit-box-align: center;
@@ -1989,18 +1965,6 @@ hr {
     background-position: center center;
 }
 
-.muirtl-dfh0nt {
-    position: relative;
-    display: flex
-;
-    -webkit-box-align: center;
-    align-items: center;
-    min-height: 56px;
-    color: rgb(255, 255, 255);
-    height: 72px;
-    box-sizing: border-box;
-    padding: 8px 20px;
-}
 
 .muirtl-vom6a7 {
     box-sizing: border-box;
@@ -2148,18 +2112,7 @@ hr {
     width: 100%;
 }
 
-.muirtl-dfh0nt {
-    position: relative;
-    display: flex
-;
-    -webkit-box-align: center;
-    align-items: center;
-    min-height: 56px;
-    color: rgb(255, 255, 255);
-    height: 72px;
-    box-sizing: border-box;
-    padding: 8px 20px;
-}
+
 
 .muirtl-14suvet {
     flex-direction: column;
@@ -2362,4 +2315,691 @@ hr {
 
 .muirtl-wu34vq > :not(style) ~ :not(style) {
     margin-top: 10px;
+}
+
+.muirtl-7zym04:only-child {
+    min-width: 100%;
+}
+.muirtl-7zym04 {
+    margin: 0px;
+    font-family: Assistant;
+    color: rgb(79, 79, 79);
+    font-size: 18px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    line-height: 1.1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.muirtl-jgd9ug :nth-child(n+2) {
+    grid-column: span 2;
+}
+.muirtl-nn6o7w {
+    margin: 0px;
+    font-family: Assistant;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 500;
+    color: var(--Dark-Grey-2, #7E7E7E);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.muirtl-1jr8h5f {
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    right: auto;
+    left: 0px;
+    --AppBar-background: #017BFF;
+    --AppBar-color: #fff;
+    background-color: var(--AppBar-background);
+    color: var(--AppBar-color);
+    position: sticky;
+    z-index: 99;
+    top: 0px;
+    box-shadow: none;
+    background-image: linear-gradient(102deg, rgb(255, 9, 82) 18.78%, rgb(255, 159, 99) 124.19%);
+    background-repeat: no-repeat;
+    background-size: auto, auto, auto, auto, 100% 216px;
+    display: flex;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    background-position: center center;
+}
+
+.muirtl-dfh0nt {
+    position: relative;
+    display: flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    min-height: 56px;
+    color: rgb(255, 255, 255);
+    height: 72px;
+    box-sizing: border-box;
+    padding: 8px 20px;
+}
+
+.muirtl-vom6a7 > .MuiGrid-item {
+    max-width: none;
+}
+.muirtl-1wxaqej {
+    box-sizing: border-box;
+    margin: 0px;
+    flex-direction: row;
+}
+
+.muirtl-fv2zs6 {
+    display: flex
+;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.muirtl-4fzkye {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-align: center;
+    font-size: 1.71429rem;
+    --IconButton-hoverBg: rgba(0, 0, 0, 0.04);
+    color: inherit;
+    height: 48px;
+    width: 48px;
+    z-index: 2;
+    outline: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    margin: 0px -12px 0px 0px;
+    text-decoration: none;
+    flex: 0 0 auto;
+    padding: 8px;
+    border-radius: 50%;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.muirtl-4mb1j7 {
+    overflow: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+    inset: 0px;
+    border-radius: inherit;
+}
+
+.muirtl-a5dz9y {
+    position: fixed;
+    inset: 0px 0px 0px auto;
+    z-index: 1199;
+}
+
+.muirtl-1o0y1dn {
+    display: flex
+;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+}
+
+.muirtl-1dteiiv {
+    margin: 0px;
+    font-weight: 500;
+    font-family: Assistant;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.muirtl-1fbkii7 {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    font-family: Assistant;
+    font-weight: 500;
+    text-transform: uppercase;
+    background-color: var(--variant-textBg);
+    --variant-containedBg: #e0e0e0;
+    color: rgb(79, 79, 79);
+    line-height: 18px;
+    font-size: 16px;
+    min-width: initial;
+    outline: 0px;
+    margin: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-image: initial;
+    border-radius: 4px;
+    border-color: currentcolor;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 0px;
+}
+
+.muirtl-1ytffp6 {
+    display: flex
+;
+    box-shadow: none;
+    min-height: 48px;
+    margin: -28px 0px 0px;
+    overflow: hidden;
+    width: 100vw;
+}
+
+.muirtl-1gh31go.Mui-disabled {
+    opacity: 0;
+}
+.muirtl-1gh31go.Mui-disabled {
+    pointer-events: none;
+    cursor: default;
+}
+.muirtl-1gh31go {
+    display: inline-flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    padding: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    color: inherit;
+    width: 40px;
+    flex-shrink: 0;
+    opacity: 0.8;
+}
+
+.muirtl-1yi2vj5 {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    flex-shrink: 0;
+    fill: currentcolor;
+    font-size: 1.42857rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.muirtl-i8yde5 {
+    overflow: auto hidden;
+    scrollbar-width: none;
+}
+
+.muirtl-1ytffp6 .MuiTabs-scroller {
+    overflow: hidden;
+}
+.muirtl-jb8z7h {
+    position: relative;
+    display: inline-block;
+    flex: 1 1 auto;
+    white-space: nowrap;
+    scrollbar-width: none;
+    overflow: auto hidden;
+}
+
+.muirtl-1ytffp6 .MuiTabs-flexContainer {
+    width: 100%;
+}
+.muirtl-162tvoi {
+    display: flex
+;
+}
+
+.muirtl-1ytffp6 .MuiTab-root.Mui-selected {
+    box-shadow: none;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+.muirtl-1ytffp6 .MuiTab-root:first-child {
+    border-top-left-radius: 0px;
+}
+.muirtl-wsjdid.Mui-selected {
+    color: rgb(1, 123, 255);
+}
+.muirtl-1ytffp6 .MuiTab-root {
+    color: rgb(255, 255, 255);
+    min-height: 48px;
+    letter-spacing: 0.1px;
+    min-width: max-content;
+    padding: 28px 8px;
+    border-radius: 12px 12px 0px 0px;
+    background: transparent;
+    transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1), color 300ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    flex: 1 1 0%;
+    white-space: nowrap;
+}
+.muirtl-wsjdid {
+    display: inline-flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    font-family: Assistant;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.25;
+    text-transform: uppercase;
+    max-width: 360px;
+    min-width: 90px;
+    position: relative;
+    min-height: 48px;
+    flex-shrink: 0;
+    padding: 12px 16px;
+    overflow: hidden;
+    white-space: normal;
+    text-align: center;
+    flex-direction: column;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.muirtl-4mb1j7 {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+    inset: 0px;
+    border-radius: inherit;
+}
+.muirtl-1ytffp6 .MuiTab-root.Mui-selected {
+    box-shadow: none;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.muirtl-1ytffp6 .MuiTab-root:last-child {
+    border-top-right-radius: 0px;
+}
+.muirtl-1ytffp6 .MuiTab-root {
+    color: rgb(255, 255, 255);
+    min-height: 48px;
+    letter-spacing: 0.1px;
+    min-width: max-content;
+    padding: 28px 8px;
+    border-radius: 12px 12px 0px 0px;
+    background: transparent;
+    transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1), color 300ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    flex: 1 1 0%;
+    white-space: nowrap;
+}
+.muirtl-wsjdid {
+    display: inline-flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    font-family: Assistant;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.25;
+    text-transform: uppercase;
+    max-width: 360px;
+    min-width: 90px;
+    position: relative;
+    min-height: 48px;
+    flex-shrink: 0;
+    padding: 12px 16px;
+    overflow: hidden;
+    white-space: normal;
+    text-align: center;
+    flex-direction: column;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.muirtl-4mb1j7 {
+    overflow: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+    inset: 0px;
+    border-radius: inherit;
+}
+
+.muirtl-1ytffp6 .MuiTabs-indicator {
+    height: 18px;
+    background-color: transparent;
+    background-image: url(/icons/wave.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition-duration: 420ms;
+    will-change: left;
+    bottom: -6.6px;
+    transform: scale(1.8);
+}
+.muirtl-423iqt {
+    position: absolute;
+    height: 2px;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(1, 123, 255);
+    transition: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.muirtl-1gh31go.Mui-disabled {
+    opacity: 0;
+}
+.muirtl-1gh31go.Mui-disabled {
+    pointer-events: none;
+    cursor: default;
+}
+.muirtl-1gh31go {
+    display: inline-flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    padding: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    color: inherit;
+    width: 40px;
+    flex-shrink: 0;
+    opacity: 0.8;
+}
+
+.muirtl-1yi2vj5 {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    flex-shrink: 0;
+    fill: currentcolor;
+    font-size: 1.42857rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.muirtl-1aod2c2 {
+    position: fixed;
+    display: flex
+;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    inset: 0px;
+    -webkit-tap-highlight-color: transparent;
+    background: rgba(62, 62, 62, 0.2);
+    z-index: 99;
+    backdrop-filter: blur(4px);
+    overflow: hidden;
+}
+
+.muirtl-b95f0i {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+}
+
+.muirtl-1uhapvr {
+    flex: 1 1 0%;
+    width: 100%;
+    height: 100%;
+    display: flex
+;
+    flex-direction: column;
+    position: relative;
+}
+
+.muirtl-1w2vdwo {
+    display: flex
+;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.muirtl-1x4wo2n {
+    text-align: center;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin: auto;
+}
+
+.muirtl-gid8lu {
+    display: flex
+;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: 16px;
+}
+
+.muirtl-w6fhi1 {
+    margin: 0px;
+    font-size: 1.75rem;
+    font-weight: 700;
+    font-family: Assistant;
+    line-height: 1.235;
+    color: rgb(79, 79, 79);
+    text-align: center;
+}
+
+.muirtl-l2o62i {
+    display: flex
+;
+    flex-direction: row;
+    gap: 8px;
+    padding: 8px 16px 16px 96px;
+    align-items: flex-start;
+}
+
+.muirtl-o1bxc6 {
+    margin: 0px;
+    font-size: 15px;
+    line-height: 1.15;
+    font-family: Assistant;
+    font-weight: 500;
+    color: rgb(79, 79, 79);
+}
+
+.muirtl-1ytffp6 .MuiTabs-indicator {
+    height: 18px;
+    background-color: transparent;
+    background-image: url(/icons/wave.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    transition-duration: 420ms;
+    will-change: left;
+    bottom: -6.6px;
+    transform: scale(1.8);
+}
+.muirtl-423iqt {
+    position: absolute;
+    height: 2px;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(1, 123, 255);
+    transition: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* right:156px */
+
+.muirtl-1uhapvr {
+    flex: 1 1 0%;
+    width: 100%;
+    height: 100%;
+    display: flex
+;
+    flex-direction: column;
+    position: relative;
+}
+
+.muirtl-c1pvke {
+    direction: ltr;
+    overflow: revert;
+    display: flex
+;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+}
+
+.muirtl-1p1gszq {
+    display: flex
+;
+    flex-direction: column;
+    flex: 1 1 0%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.muirtl-c1pvke > * {
+    direction: rtl;
+    overflow: revert;
+}
+
+@supports (backdrop-filter: blur(10px)) or (-webkit-backdrop-filter: blur(4px)) {
+    .muirtl-1hmojqi .MuiBackdrop-root {
+        background-color: rgba(28, 26, 125, 0.27);
+        backdrop-filter: blur(4px);
+    }
+}
+
+.muirtl-178dcu5 {
+    height: 170.797px;
+    width: 100%;
+    position: relative;
+    padding: 0px 20px;
+}
+
+.muirtl-1c28dz5.MuiChip-colorDefault {
+    color: rgb(79, 79, 79);
+    border-color: rgba(79, 79, 79, 0.6);
+    background-color: rgb(230, 231, 237);
+}
+.muirtl-jgd9ug :nth-child(n+2) {
+    grid-column: span 2;
+}
+.muirtl-1c28dz5 {
+    max-width: 100%;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.87);
+    background-color: rgba(0, 0, 0, 0.08);
+    vertical-align: middle;
+    box-sizing: border-box;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Assistant;
+    width: min-content;
+    margin-top: 8px;
+    cursor: inherit;
+    transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    outline: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px;
+    white-space: pre-wrap;
+    border-radius: 5px;
 }
