@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>63680D3D-968E-400F-9EBE-2C07DFF1CB981</title>
+    <defs>
+        <circle id="path-1" cx="25.5" cy="25.5" r="25.5"></circle>
+        <filter x="-129.4%" y="-76.5%" width="358.8%" height="358.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="27" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.094522104   0 0 0 0 0.351579383   0 0 0 0 0.69921875  0 0 0 0.0913973722 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="תפריט" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="כל-הפעולות_קטגוריות" transform="translate(-343.000000, -333.000000)">
+            <g id="Group-8" transform="translate(20.000000, 298.000000)">
+                <g id="Group-22" transform="translate(234.000000, 35.000000)">
+                    <g id="Buttons/Secondary/Actions-Copy" transform="translate(89.000000, 0.000000)">
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Icons/Menu/01" transform="translate(14.500000, 15.500000)">
+                            <path d="M10.2588172,0 C10.42662,0 10.5909888,0.0333146801 10.7430841,0.0962641839 C10.7519963,0.100652927 10.7610884,0.104173204 10.7700483,0.107945471 C10.9119205,0.170364991 11.0426045,0.25919726 11.1544876,0.371114139 L15.2887612,4.50538776 C15.4009625,4.61755519 15.4899603,4.74859877 15.5526505,4.89105466 C15.5559605,4.89936991 15.559371,4.90820091 15.5625356,4.91714812 C15.6266144,5.0689403 15.6599291,5.23330907 15.6599291,5.40111188 L15.66075,7.67072067 C15.5876229,7.66581952 15.5141615,7.66207149 15.4403828,7.65949508 C15.174537,7.65021154 14.9117378,7.65639024 14.6528509,7.67722383 L14.6528144,5.588 L11.338599,5.58811456 C10.6389733,5.58811456 10.0718145,5.02095581 10.0718145,4.32133004 L10.0718144,1.006 L2.93859888,1.0062963 C2.7947352,1.0062963 2.67811065,1.12292085 2.67811065,1.26678453 L2.67811065,17.3031485 C2.67811065,17.4470121 2.7947352,17.5636367 2.93859888,17.5636367 L9.20781497,17.5640213 C9.39407818,17.9188409 9.61100248,18.255391 9.85519152,18.5700293 L2.93859888,18.569933 C2.23897311,18.569933 1.67181435,18.0027742 1.67181435,17.3031485 L1.67181435,1.26678453 C1.67181435,0.567158751 2.23897311,0 2.93859888,0 L10.2588172,0 Z M11.0778144,1.717 L11.0781108,4.32133004 C11.0781108,4.46519372 11.1947354,4.58181827 11.338599,4.58181827 L13.9408144,4.581 L11.0778144,1.717 Z" id="Combined-Shape" fill="#6E7695" fill-rule="nonzero"></path>
+                            <g id="Group-21" transform="translate(10.080186, 9.299298)" stroke="#6E7695">
+                                <path d="M10.248,5.124 C10.248,7.953912 7.95318,10.248 5.124,10.248 C2.293722,10.248 0,7.953912 0,5.124 C0,2.294088 2.293722,0 5.124,0 C7.95318,0 10.248,2.294088 10.248,5.124 Z" id="Stroke-1"></path>
+                                <line x1="2.562" y1="5.124" x2="7.686" y2="5.124" id="Stroke-3" stroke-linecap="round"></line>
+                                <line x1="2.562" y1="5.124" x2="7.686" y2="5.124" id="Stroke-3-Copy" stroke-linecap="round"></line>
+                                <line x1="5.124" y1="7.686" x2="5.124" y2="2.562" id="Stroke-5" stroke-linecap="round"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

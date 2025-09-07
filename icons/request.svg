@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="-18.3698465%" y1="-70.7915624%" x2="84.3842951%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00ED9F" stop-opacity="0.95" offset="0%"></stop>
+            <stop stop-color="#00C7DD" offset="49.76641%"></stop>
+            <stop stop-color="#005DFF" stop-opacity="0.48" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.1453484%" y1="-12.4274561%" x2="89.1475932%" y2="108.776469%" id="linearGradient-2">
+            <stop stop-color="#00C7DD" stop-opacity="0.48" offset="0%"></stop>
+            <stop stop-color="#005DFF" stop-opacity="0.95" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-217.000000, -226.000000)" id="Icons/Menu/Actions/03">
+            <g transform="translate(217.000000, 226.572948)">
+                <g id="Group-2" transform="translate(2.490878, 0.000000)">
+                    <path d="M13.9598955,3.2455071 L11.0853035,0.370915098 C10.8473628,0.135256823 10.5266176,0.00211729817 10.1917353,0 L1.26448329,0 C0.566128451,0 0,0.566128451 0,1.26448329 L0,16.0167883 C0,16.7151431 0.566128451,17.2812716 1.26448329,17.2812716 L13.0663273,17.2812716 C13.7646821,17.2812716 14.3308106,16.7151431 14.3308106,16.0167883 L14.3308106,4.13907529 C14.3286933,3.80419304 14.1955538,3.48344782 13.9598955,3.2455071 L13.9598955,3.2455071 Z" id="Path-Copy" fill-opacity="0.75" fill="url(#linearGradient-1)" opacity="0.745310465"></path>
+                    <path d="M16.6473298,5.96423551 L13.7727378,3.0896435 C13.5347971,2.85398523 13.2140519,2.7208457 12.8791696,2.71872841 L3.95191764,2.71872841 C3.2535628,2.71872841 2.68743435,3.28485686 2.68743435,3.98321169 L2.68743435,18.7355167 C2.68743435,19.4338715 3.2535628,20 3.95191764,20 L15.7537617,20 C16.4521165,20 17.0182449,19.4338715 17.0182449,18.7355167 L17.0182449,6.8578037 C17.0161276,6.52292145 16.8829881,6.20217623 16.6473298,5.96423551 L16.6473298,5.96423551 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                    <g id="Group" transform="translate(9.852840, 11.673495) scale(1, -1) translate(-9.852840, -11.673495) translate(7.578195, 8.640636)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.371168">
+                        <polyline id="Path" points="0 3.79107405 2.27464443 6.06571849 4.54928886 3.79107405"></polyline>
+                        <line x1="2.27464443" y1="0" x2="2.27464443" y2="6.06571849" id="Path"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
