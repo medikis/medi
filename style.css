@@ -2744,7 +2744,7 @@ hr {
 .muirtl-1ytffp6 .MuiTabs-indicator {
     height: 18px;
     background-color: transparent;
-    background-image: url(icons/wave.svg);
+    background-image: url(/icons/wave.svg);
     background-repeat: no-repeat;
     background-position: center center;
     transition-duration: 420ms;
@@ -2900,7 +2900,7 @@ hr {
 .muirtl-1ytffp6 .MuiTabs-indicator {
     height: 18px;
     background-color: transparent;
-    background-image: url(icons/wave.svg);
+    background-image: url(/icons/wave.svg);
     background-repeat: no-repeat;
     background-position: center center;
     transition-duration: 420ms;
@@ -3002,6 +3002,4 @@ hr {
     padding: 0px;
     white-space: pre-wrap;
     border-radius: 5px;
-
 }
-
