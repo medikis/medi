@@ -34,10 +34,16 @@ window.addEventListener("load", ()=> {
     } else {
         lastExem = false;
     }
-    document.documentElement.requestFullscreen();
 });
 
 const plusBtnManager = () => {
+    if (document.documentElement.requestFullscreen) {
+        document.documentElement.requestFullscreen();
+      } else if (document.documentElement.webkitRequestFullscreen) { // Safari
+        document.documentElement.webkitRequestFullscreen();
+      } else if (document.documentElement.msRequestFullscreen) { // old IE
+        document.documentElement.msRequestFullscreen();
+      }
     plusBtn.removeEventListener("click", plusBtnManager);
     document.getElementById("plus-text").style.transform = "rotate(45deg)";
     plusBtn.style.width = "195px";
@@ -122,5 +128,4 @@ const backFromLastExem = () => {
     document.getElementById("last-exemption-btn").style.fontWeight = "700";
     document.getElementById("page-white-arrow").style.right = "156px";
     document.getElementById("current-exemptions-div").style.transform = "translate(100%, 0px)"
-
 }
