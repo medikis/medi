@@ -34,6 +34,7 @@ window.addEventListener("load", ()=> {
     } else {
         lastExem = false;
     }
+    document.documentElement.requestFullscreen();
 });
 
 const plusBtnManager = () => {
@@ -121,4 +122,5 @@ const backFromLastExem = () => {
     document.getElementById("last-exemption-btn").style.fontWeight = "700";
     document.getElementById("page-white-arrow").style.right = "156px";
     document.getElementById("current-exemptions-div").style.transform = "translate(100%, 0px)"
+
 }
