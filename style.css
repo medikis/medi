@@ -2744,7 +2744,7 @@ hr {
 .muirtl-1ytffp6 .MuiTabs-indicator {
     height: 18px;
     background-color: transparent;
-    background-image: url(/icons/wave.svg);
+    background-image: url(icons/wave.svg);
     background-repeat: no-repeat;
     background-position: center center;
     transition-duration: 420ms;
@@ -2900,7 +2900,7 @@ hr {
 .muirtl-1ytffp6 .MuiTabs-indicator {
     height: 18px;
     background-color: transparent;
-    background-image: url(/icons/wave.svg);
+    background-image: url(icons/wave.svg);
     background-repeat: no-repeat;
     background-position: center center;
     transition-duration: 420ms;
@@ -2982,6 +2982,57 @@ hr {
     background-color: rgba(0, 0, 0, 0.08);
     vertical-align: middle;
     box-sizing: border-box;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Assistant;
+    width: min-content;
+    margin-top: 8px;
+    cursor: inherit;
+    transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    outline: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px;
+    white-space: pre-wrap;
+    border-radius: 5px;
+}
+
+.muirtl-1wbw82o::before {
+    content: "";
+    position: absolute;
+    background-image: url(icons/new-badge.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 129.427px;
+    height: 129.569px;
+    flex-shrink: 0;
+    left: -19px;
+    top: -6px;
+}
+
+.muirtl-122btlw.MuiChip-colorError {
+    color: rgb(255, 0, 60);
+    border-color: rgb(255, 0, 60);
+    background-color: rgb(255, 232, 237);
+}
+.muirtl-jgd9ug :nth-child(n+2) {
+    grid-column: span 2;
+}
+.muirtl-122btlw {
+    max-width: 100%;
+    -webkit-box-pack: center;
+    justify-content: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+    background-color: rgb(255, 0, 60);
+    color: rgb(255, 255, 255);
     display: inline-flex;
     -webkit-box-align: center;
     align-items: center;

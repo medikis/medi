@@ -126,5 +126,24 @@ const backFromLastExem = () => {
     document.getElementById("current-exemption-btn").style.fontWeight = "500";
     document.getElementById("last-exemption-btn").style.fontWeight = "700";
     document.getElementById("page-white-arrow").style.right = "156px";
-    document.getElementById("current-exemptions-div").style.transform = "translate(100%, 0px)"
+    document.getElementById("current-exemptions-div").style.transform = "translate(100%, 0px)";
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
